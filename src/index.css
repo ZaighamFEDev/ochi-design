@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family:a ;
+    src: url(FoundersGrotesk-Semibold.ttf);
+}
+@font-face {
+    font-family:bb;
+    src: url(icomoon.ttf);
+}
+@font-face {
+    font-family:ccc;
+    src: url(NeueMontreal-Regular.ttf);
+}
