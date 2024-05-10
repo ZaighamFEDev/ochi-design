@@ -3,7 +3,7 @@ import React from "react";
 const Navbar = () => {
   return (
     <>
-      <div className="fixed z-[999] w-full px-[3.3rem] py-3 flex items-center justify-between font-['ccc']">
+      <div  className="fixed z-[999] w-full px-[3.3rem] py-3 flex items-center justify-between font-['ccc']">
         <svg
           width="72"
           height="30"

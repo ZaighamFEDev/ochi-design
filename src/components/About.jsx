@@ -2,7 +2,7 @@ import React from "react";
 
 function About() {
   return (
-    <div className="w-full h-[18  0vh] bg-[#CDEA68] py-16">
+    <div className="w-full h-[180vh]  bg-[#CDEA68] py-16">
       <h2 className="py-8 px-16 text-[4vw] leading-none text-zinc-900 -tracking-[0.09vw]">
         Ochi is a strategic partner for fast-growning tech businesses that need
         to raise funds, sell prodducts, exxplain complex ideas, and hire great
